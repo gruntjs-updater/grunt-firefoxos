@@ -1,0 +1,37 @@
+{
+  "name": "grunt-firefoxos",
+  "description": "Firefox OS grunt tasks",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pdi-innovation/grunt-firefoxos",
+  "contributors": [
+    "Belén Albeza (https://github.com/belen-albeza)",
+    "Francisco Jordano (https://github.com/francisco-jordano)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pdi-innovation/grunt-firefoxos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pdi-innovation/grunt-firefoxos/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt": "~0.4.1",
+    "node-firefoxos-cli": "0.0.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
