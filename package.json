@@ -1,7 +1,7 @@
 {
   "name": "grunt-firefoxos",
   "description": "Firefox OS grunt tasks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/pdi-innovation/grunt-firefoxos",
   "contributors": [
     "Belén Albeza (https://github.com/belen-albeza)",
